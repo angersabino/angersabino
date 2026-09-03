@@ -1,11 +1,11 @@
-[README.md](https://github.com/user-attachments/files/31764160/README.md)
+[README (1).md](https://github.com/user-attachments/files/31764182/README.1.md)
 <table>
 <tr>
 <td width="32%" align="center" valign="top" bgcolor="#ffffff">
 
 <sub><code>&gt;_ ascii_portrait.render()</code></sub>
 
-<img src="./render.gif" width="100%" alt="Gabriel Anger Sabino Rocha" style="border-radius: 12px;" />
+<img src="./profile.gif" width="100%" alt="Gabriel Anger Sabino Rocha" style="border-radius: 12px;" />
 
 <sub><code>&gt; render complete_</code></sub>
 
@@ -18,20 +18,7 @@
 </td>
 <td width="68%" valign="top">
 
-### Hi 👋
-# Eu sou o Gabriel
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=false&vCenter=true&width=460&lines=Estudante+de+Desenvolvimento+de+Sistemas;Etec+Prof.+Edson+Galv%C3%A3o;HTML+%26+CSS" alt="Typing SVG" />
-
-| | |
-|---|---|
-| 🎓 **Escola** | Etec Prof. Edson Galvão |
-| 📧 **Email** | angersabinorocha1011@gmail.com |
-
-**Skills**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="./hero.svg" width="100%" alt="Gabriel Anger Sabino Rocha" style="border-radius: 12px;" />
 
 </td>
 </tr>
