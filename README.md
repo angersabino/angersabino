@@ -1,7 +1,7 @@
-<img width="420" height="420" alt="render" src="https://github.com/user-attachments/assets/0d8206f3-7e23-49d7-bc90-48f75b676a17" />
+[README.md](https://github.com/user-attachments/files/31762452/README.md)
 <table>
 <tr>
-<td width="32%" align="center" valign="top">
+<td width="32%" align="center" valign="top" bgcolor="#ffffff">
 
 <sub><code>&gt;_ ascii_portrait.render()</code></sub>
 
@@ -10,11 +10,11 @@
 <sub><code>&gt; render complete_</code></sub>
 
 <br/><br/>
+<img width="420" height="420" alt="render" src="https://github.com/user-attachments/assets/08645071-a908-47c8-9ec0-fb699c1fe981" />
 
 <sub><b>Gabriel Anger Sabino Rocha</b></sub>
 <br/>
-<sub>Estudante de Desenvolvimento de Sistemas</sub>[README.md](https://github.com/user-attachments/files/31762212/README.md)
-
+<sub>Estudante de Desenvolvimento de Sistemas</sub>
 
 </td>
 <td width="68%" valign="top">
