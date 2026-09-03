@@ -1,19 +1,11 @@
-[README (1).md](https://github.com/user-attachments/files/31764182/README.1.md)
+[README.md](https://github.com/user-attachments/files/31764332/README.md)
 <table>
 <tr>
 <td width="32%" align="center" valign="top" bgcolor="#ffffff">
 
-<sub><code>&gt;_ ascii_portrait.render()</code></sub>
-
-<img src="./profile.gif" width="100%" alt="Gabriel Anger Sabino Rocha" style="border-radius: 12px;" />
-
-<sub><code>&gt; render complete_</code></sub>
-
-<br/><br/>
-
-<sub><b>Gabriel Anger Sabino Rocha</b></sub>
-<br/>
-<sub>Estudante de Desenvolvimento de Sistemas</sub>
+<img src="./left_top.svg" width="100%" alt="" />
+<img src="./profile.gif" width="100%" alt="Gabriel Anger Sabino Rocha" />
+<img src="./left_bottom.svg" width="100%" alt="" />
 
 </td>
 <td width="68%" valign="top">
