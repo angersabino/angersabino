@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31763956/README.md)
 <table>
 <tr>
 <td width="32%" align="center" valign="top" bgcolor="#ffffff">
