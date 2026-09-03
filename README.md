@@ -1,20 +1,7 @@
-[README.md](https://github.com/user-attachments/files/31764332/README.md)
-<table>
-<tr>
-<td width="32%" align="center" valign="top" bgcolor="#ffffff">
-
-<img src="./left_top.svg" width="100%" alt="" />
-<img src="./profile.gif" width="100%" alt="Gabriel Anger Sabino Rocha" />
-<img src="./left_bottom.svg" width="100%" alt="" />
-
-</td>
-<td width="68%" valign="top">
-
-<img src="./hero.svg" width="100%" alt="Gabriel Anger Sabino Rocha" style="border-radius: 12px;" />
-
-</td>
-</tr>
-</table>
+[README (1).md](https://github.com/user-attachments/files/31764522/README.1.md)
+<p align="center">
+  <img src="./profile_card.gif" width="100%" alt="Gabriel Anger Sabino Rocha" />
+</p>
 
 <p align="left">
   <a href="mailto:angersabinorocha1011@gmail.com">
