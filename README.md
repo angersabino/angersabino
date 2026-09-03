@@ -1,18 +1,25 @@
-[README (2).md](https://github.com/user-attachments/files/31762162/README.2.md)
+<img width="420" height="420" alt="render" src="https://github.com/user-attachments/assets/0d8206f3-7e23-49d7-bc90-48f75b676a17" />
 <table>
 <tr>
 <td width="32%" align="center" valign="top">
 
-<img src="./profile.jpg" width="220" alt="Gabriel Anger Sabino Rocha" style="border-radius: 12px;" />
+<sub><code>&gt;_ ascii_portrait.render()</code></sub>
+
+<img src="./render.gif" width="220" alt="Gabriel Anger Sabino Rocha" style="border-radius: 12px;" />
+
+<sub><code>&gt; render complete_</code></sub>
+
+<br/><br/>
 
 <sub><b>Gabriel Anger Sabino Rocha</b></sub>
 <br/>
-<sub>Estudante de Desenvolvimento de Sistemas</sub>
+<sub>Estudante de Desenvolvimento de Sistemas</sub>[README.md](https://github.com/user-attachments/files/31762212/README.md)
+
 
 </td>
 <td width="68%" valign="top">
 
-### Hi 
+### Olá
 # Eu sou o Gabriel
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=false&vCenter=true&width=460&lines=Estudante+de+Desenvolvimento+de+Sistemas;Etec+Prof.+Edson+Galv%C3%A3o;HTML+%26+CSS" alt="Typing SVG" />
